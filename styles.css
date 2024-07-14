@@ -43,6 +43,9 @@ h1 {
 
 .song-list li {
     margin: 15px 0;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background for readability */
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .song-list a {
